@@ -1,2 +1,27 @@
-# dora-e-quran
-Notes devised after listening to Dr. Israr Sahab's Dora-e-Quran.
+# ﷽
+
+# Dora-e-Quran
+
+This repo contains the notes devised by me after listening to Dr. Israr Sahab's Dora-e-Quran Videos.
+
+## Language Used
+
+The notes are written in a mix of **roman-urdu and english**.
+I might look into having the notes translated into specific languages depending on time.
+
+### Disclaimer # 1
+
+This is a work in progress and is an effort to learn the Holy Quran by listening to a reputable aalim in the field of Quranic Studies i.e. Dr. Israr Ahmad.
+
+### Disclaimer # 2
+
+Their might be mistakes in notes or my interpretation of what Dr. Israr said in his words. For that I am sorry and always looking to improve and fix those mistakes.
+
+So, please don't hesitate to mention any mistake that you may find in the notes and:
+- [Create an issue on this repo](https://github.com/miankhalid/dora-e-quran/issues)
+- or contribute yourself through a pull-request which I'll be more than happy to review.
+
+### Important Links
+1. [About Dr. Israr Ahmad](https://en.wikipedia.org/wiki/Israr_Ahmed) and his organization [Tanzeem-e-Islami](https://tanzeem.org/)
+2. [Complete set of Dr. Israr's Dora-e-Quran Videos](http://tanzeem.info/?tabid=62&ViewTypeID=C&MediaTypeID=2&MediaDetailID=103)
+3. [Tanzeem e Islami Books](http://204.12.241.218/videos/tanzeem/videos/BOOKS/)
