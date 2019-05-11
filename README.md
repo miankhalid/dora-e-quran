@@ -1,6 +1,6 @@
 # ﷽
 
-# Dora-e-Quran
+# Dora-e-Quran Notes
 
 This repo contains the notes devised by me after listening to Dr. Israr Sahab's Dora-e-Quran Videos.
 
@@ -15,7 +15,7 @@ This is a work in progress and is an effort to learn the Holy Quran by listening
 
 ### Disclaimer # 2
 
-Their might be mistakes in notes or my interpretation of what Dr. Israr said in his words. For that I am sorry and always looking to improve and fix those mistakes.
+There might be mistakes in the notes or my interpretation of what Dr. Israr said in his words. For that I am sorry and always looking to improve and fix those mistakes.
 
 So, please don't hesitate to mention any mistake that you may find in the notes and:
 - [Create an issue on this repo](https://github.com/miankhalid/dora-e-quran/issues)
