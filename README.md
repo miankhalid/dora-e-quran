@@ -9,6 +9,7 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [16. Surah Nahal](notes/roman-urdu/16_Surah_Nahal.md)
 - [17. Surah Bani Israel](notes/roman-urdu/17_Surah_Bani_Israel.md)
 - [18. Surah Kahf](notes/roman-urdu/18_Surah_Kahf.md)
+- [19. Surah Maryam](notes/roman-urdu/19_Surah_Maryam.md)
 
 ## Language Used
 
