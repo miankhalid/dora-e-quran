@@ -11,6 +11,8 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [18. Surah Kahf](notes/roman-urdu/18_Surah_Kahf.md)
 - [77. Surah Mursalat](notes/roman-urdu/77_Surah_Mursalat.md)
 - [78. Surah Naba](notes/roman-urdu/78_Surah_Naba.md)
+- [79. Surah Nazi'at](notes/roman-urdu/79_Surah_Nazi'at.md)
+- [80. Surah Abasa](notes/roman-urdu/80_Surah_Abasa.md)
 
 ## Language Used
 
