@@ -19,6 +19,8 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [82. Surah Infitar](notes/roman-urdu/82_Surah_Infitar.md)
 - [83. Surah Mutaffifin](notes/roman-urdu/83_Surah_Mutaffifin.md)
 - [84. Surah Inshiqaq](notes/roman-urdu/84_Surah_Inshiqaq.md)
+- [85. Surah Burooj](notes/roman-urdu/85_Surah_Burooj.md)
+- [86. Surah Tariq](notes/roman-urdu/86_Surah_Tariq.md)
 - [87. Surah Aala](notes/roman-urdu/87_Surah_Aala.md)
 - [88. Surah Ghashia](notes/roman-urdu/88_Surah_Ghashia.md)
 - [89. Surah Fajar](notes/roman-urdu/89_Surah_Fajar.md)
