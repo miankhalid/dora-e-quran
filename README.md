@@ -13,6 +13,8 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [78. Surah Naba](notes/roman-urdu/78_Surah_Naba.md)
 - [79. Surah Nazi'at](notes/roman-urdu/79_Surah_Nazi'at.md)
 - [80. Surah Abasa](notes/roman-urdu/80_Surah_Abasa.md)
+- [89. Surah Fajar](notes/roman-urdu/89_Surah_Fajar.md)
+- [90. Surah Balad](notes/roman-urdu/90_Surah_Balad.md)
 
 ## Language Used
 
