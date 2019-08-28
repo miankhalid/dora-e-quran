@@ -19,6 +19,8 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [88. Surah Ghashia](notes/roman-urdu/88_Surah_Ghashia.md)
 - [89. Surah Fajar](notes/roman-urdu/89_Surah_Fajar.md)
 - [90. Surah Balad](notes/roman-urdu/90_Surah_Balad.md)
+- [91. Surah Shams](notes/roman-urdu/91_Surah_Shams.md)
+- [92. Surah Lail](notes/roman-urdu/92_Surah_Lail.md)
 - [93. Surah Dhuha](notes/roman-urdu/93_Surah_Dhuha.md)
 - [94. Surah Sharah](notes/roman-urdu/94_Surah_Sharah.md)
 - [95. Surah Teen](notes/roman-urdu/95_Surah_Teen.md)
