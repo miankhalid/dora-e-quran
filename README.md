@@ -15,6 +15,8 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [80. Surah Abasa](notes/roman-urdu/80_Surah_Abasa.md)
 - [103. Surah Asar](notes/roman-urdu/103_Surah_Asar.md)
 - [104. Surah Humaza](notes/roman-urdu/104_Surah_Humaza.md)
+- [105. Surah Fil](notes/roman-urdu/105_Surah_Fil.md)
+- [106. Surah Quraysh](notes/roman-urdu/106_Surah_Quraysh.md)
 
 ## Language Used
 
