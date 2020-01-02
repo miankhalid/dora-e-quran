@@ -2,7 +2,7 @@
 
 # Dora-e-Quran Notes
 
-This repo contains the notes devised by me after listening to Dr. Israr Sahab's Dora-e-Quran Videos.
+This repo contains the notes devised by contributors after listening to Dr. Israr Sahab's Dora-e-Quran videos.
 
 ## Notes
 ### Roman Urdu
@@ -31,9 +31,11 @@ This is a work in progress and is an effort to learn the Holy Quran by listening
 
 There might be mistakes in the notes or my interpretation of what Dr. Israr said in his words. For that I am sorry and always looking to improve and fix those mistakes.
 
-So, please don't hesitate to mention any mistake that you may find in the notes and:
+### Contribution Guideline
 - [Create an issue on this repo](https://github.com/miankhalid/dora-e-quran/issues)
 - or contribute yourself through a pull-request which I'll be more than happy to review.
+- Please don't hesitate to mention any mistake that you may find in the notes
+- **Note**: Please make sure that the work you are contributing is not already in progress by someone else by visiting [Pull Requests](https://github.com/miankhalid/dora-e-quran/pulls) and [Issues](https://github.com/miankhalid/dora-e-quran/issues)
 
 ### Important Links
 1. [About Dr. Israr Ahmad](https://en.wikipedia.org/wiki/Israr_Ahmed) and his organization [Tanzeem-e-Islami](https://tanzeem.org/)
