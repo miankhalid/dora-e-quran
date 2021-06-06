@@ -1,6 +1,6 @@
 # ﷽
 
-# Dora-e-Quran Notes
+## Dora-e-Quran
 
 This repo contains the notes devised by me after listening to Dr. Israr Sahab's Dora-e-Quran Videos.
 
@@ -15,6 +15,8 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [78. Surah Naba](notes/roman-urdu/78_Surah_Naba.md)
 - [79. Surah Nazi'at](notes/roman-urdu/79_Surah_Nazi'at.md)
 - [80. Surah Abasa](notes/roman-urdu/80_Surah_Abasa.md)
+- [99. Surah Zilzaal](notes/roman-urdu/99_Surah_Zilzaal.md)
+- [100. Surah Aadiyaat](notes/roman-urdu/100_Surah_Aadiyaat.md)
 - [101. Surah Qari'ah](notes/roman-urdu/101_Surah_Qari'ah.md)
 - [102. Surah Takathur](notes/roman-urdu/102_Surah_Takathur.md)
 - [103. Surah Asar](notes/roman-urdu/103_Surah_Asar.md)
