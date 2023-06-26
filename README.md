@@ -17,6 +17,8 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [80. Surah Abasa](notes/roman-urdu/80_Surah_Abasa.md)
 - [87. Surah Aala](notes/roman-urdu/87_Surah_Aala.md)
 - [88. Surah Ghashia](notes/roman-urdu/88_Surah_Ghashia.md)
+- [89. Surah Fajar](notes/roman-urdu/89_Surah_Fajar.md)
+- [90. Surah Balad](notes/roman-urdu/90_Surah_Balad.md)
 - [93. Surah Dhuha](notes/roman-urdu/93_Surah_Dhuha.md)
 - [94. Surah Sharah](notes/roman-urdu/94_Surah_Sharah.md)
 - [95. Surah Teen](notes/roman-urdu/95_Surah_Teen.md)
@@ -40,7 +42,6 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [113. Surah Falaq](notes/roman-urdu/113_Surah_Falaq.md)
 - [114. Surah Nas](notes/roman-urdu/114_Surah_Nas.md)
 
-
 ## Language Used
 
 The notes are written in a mix of **roman-urdu and english**.
@@ -63,4 +64,6 @@ So, please don't hesitate to mention any mistake that you may find in the notes 
 
 1. [About Dr. Israr Ahmad](https://en.wikipedia.org/wiki/Israr_Ahmed) and his organization [Tanzeem-e-Islami](https://tanzeem.org/)
 2. [Complete set of Dr. Israr's Dora-e-Quran Videos](http://tanzeem.info/?tabid=62&ViewTypeID=C&MediaTypeID=2&MediaDetailID=103)
+   1. [Bayan-ul-Quran](https://www.youtube.com/playlist?list=PL401F34AC84CC5851) youtube playlist.
 3. [Tanzeem e Islami Books](http://204.12.241.218/videos/tanzeem/videos/BOOKS/)
+4. [quran.com](https://quran.com/) for more surah info.
