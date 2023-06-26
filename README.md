@@ -15,6 +15,8 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [78. Surah Naba](notes/roman-urdu/78_Surah_Naba.md)
 - [79. Surah Nazi'at](notes/roman-urdu/79_Surah_Nazi'at.md)
 - [80. Surah Abasa](notes/roman-urdu/80_Surah_Abasa.md)
+- [87. Surah Aala](notes/roman-urdu/87_Surah_Aala.md)
+- [88. Surah Ghashia](notes/roman-urdu/88_Surah_Ghashia.md)
 - [99. Surah Zilzaal](notes/roman-urdu/99_Surah_Zilzaal.md)
 - [100. Surah Aadiyaat](notes/roman-urdu/100_Surah_Aadiyaat.md)
 - [101. Surah Qari'ah](notes/roman-urdu/101_Surah_Qari'ah.md)
