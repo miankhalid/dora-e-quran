@@ -1,10 +1,10 @@
 # Number 107: Surah Maoon
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 7  
-Subject: Quraysh ke haalaat (ikhlaqi)  
-Related Surahs: [105. Surah Fil](105_Surah_Fil.md), [106. Surah Quraysh](106_Surah_Quraysh.md) and [108. Surah Kausar](108_Surah_Kausar.md)
+Classification: Makki
+Rukus: 1
+Ayahs: 7
+Subject: Quraysh ke haalaat (ikhlaqi)
+Related Surahs: [105. Surah Fil](./105_Surah_Fil.md), [106. Surah Quraysh](./106_Surah_Quraysh.md) and [108. Surah Kausar](./108_Surah_Kausar.md)
 
 ## Info
 

@@ -1,10 +1,10 @@
 # Number 102: Surah Takathur
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 8  
+Classification: Makki
+Rukus: 1
+Ayahs: 8
 Subject: Duniya aor Aakhrat
-Related Surahs: [99. Surah Zilzaal](99_Surah_Zilzaal.md), [100. Surah Aadiyaat](100_Surah_Aadiyaat) and [101. Surah Qari'ah](101_Surah_Qari'ah.md)
+Related Surahs: [99. Surah Zilzaal](./99_Surah_Zilzaal.md), [100. Surah Aadiyaat](./100_Surah_Aadiyaat) and [101. Surah Qari'ah](./101_Surah_Qari'ah.md)
 
 ## Insaan ki ghaflat ki wajha
 

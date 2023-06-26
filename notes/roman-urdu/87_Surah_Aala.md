@@ -4,7 +4,7 @@ Classification: Makki
 Rukus: 1
 Ayahs: 26
 Subject: Tauhid, Huzur ﷺ ke liye hidayat aor aakhrat
-Related Surah: [Surah Ghashia](./88_Surah_Ghashia.md)
+Related Surah: [88. Surah Ghashia](./88_Surah_Ghashia.md)
 
 ## Background
 

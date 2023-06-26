@@ -1,10 +1,10 @@
 # Number 99: Surah Zilzaal
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 8  
+Classification: Makki
+Rukus: 1
+Ayahs: 8
 Subject: Qayamat aor Aakhrat
-Related Surahs: [100. Surah Aadiyaat](100_Surah_Aadiyaat), [101. Surah Qari'ah](101_Surah_Qari'ah.md) and [102. Surah Takathur](102_Surah_Takathur.md)
+Related Surahs: [100. Surah Aadiyaat](./100_Surah_Aadiyaat), [101. Surah Qari'ah](./101_Surah_Qari'ah.md) and [102. Surah Takathur](./102_Surah_Takathur.md)
 
 ## Qayyamat pesh hony ka naqsha
 

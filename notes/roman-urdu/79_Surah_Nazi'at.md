@@ -4,7 +4,7 @@ Classification: Makki
 Rukus: 2
 Ayahs: 46
 Subject: Resurrection
-Related Surah: Surah Abasa
+Related Surah: [80. Surah Abasa](./80_Surah_Abasa.md)
 
 ## Background
 

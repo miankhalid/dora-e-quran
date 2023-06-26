@@ -1,10 +1,10 @@
 # Number 103: Surah Asar
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 3  
-Subject: Kambyabi aor khasare ka raaz  
-Related Surah: [104. Surah Humaza](104_Surah_Humaza.md)
+Classification: Makki
+Rukus: 1
+Ayahs: 3
+Subject: Kambyabi aor khasare ka raaz
+Related Surah: [104. Surah Humaza](./104_Surah_Humaza.md)
 
 ## Info
 

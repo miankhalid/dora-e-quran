@@ -3,7 +3,7 @@
 Classification: Makki
 Rukus: 1
 Ayahs: 5
-Related Surah: [95. Surah Teen](95_Surah_Teen.md), [96. Surah Alaq](96_Surah_Alaq.md) and [98. Surah Bayyanah](98_Surah_Bayyanah.md)
+Related Surah: [95. Surah Teen](./95_Surah_Teen.md), [96. Surah Alaq](./96_Surah_Alaq.md) and [98. Surah Bayyanah](./98_Surah_Bayyanah.md)
 
 ## Quran ka nazool
 

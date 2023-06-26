@@ -3,7 +3,7 @@
 Classification: Makki
 Rukus: 1
 Ayahs: 8
-Related Surah: [95. Surah Teen](95_Surah_Teen.md), [96. Surah Alaq](96_Surah_Alaq.md) and [97. Surah Qadar](97_Surah_Qadar.md)
+Related Surah: [95. Surah Teen](./95_Surah_Teen.md), [96. Surah Alaq](./96_Surah_Alaq.md) and [97. Surah Qadar](./97_Surah_Qadar.md)
 
 ## Bayyanah se unka alehda karna
 

@@ -4,7 +4,7 @@ Classification: Makki
 Rukus: 1
 Ayahs: 19
 Subject: Tauhid aor aakhrat
-Related Surah: [Surah Alaa](87_Surah_Aala.md)
+Related Surah: [87. Surah Alaa](87_Surah_Aala.md)
 
 ## Background
 

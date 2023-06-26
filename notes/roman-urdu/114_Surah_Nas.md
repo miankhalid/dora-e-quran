@@ -1,17 +1,17 @@
 # Number 114: Surah Nas
 
-Classification: Madani  
-Rukus: 1  
-Ayahs: 6  
-Subject: Touheed (Allah ki panah)  
-Related Surahs: [109. Surah Kafirun](109_Surah_Kafirun.md), [112. Surah Ikhlas](112_Surah_Ikhlas.md) and [113. Surah Falaq](113_Surah_Falaq.md)
+Classification: Madani
+Rukus: 1
+Ayahs: 6
+Subject: Touheed (Allah ki panah)
+Related Surahs: [109. Surah Kafirun](./109_Surah_Kafirun.md), [112. Surah Ikhlas](./112_Surah_Ikhlas.md) and [113. Surah Falaq](./113_Surah_Falaq.md)
 
 ## Info
 
 1. Aap ﷺ par ek yahoodi ne jadu kar diya tha. Aap ﷺ par uska asar howa tha. Aap cheeze bhoolne lagy thy.
 2. Surah Falaq aor Surah Nas nazul hui. Aap ﷺ ne inka jab wird kiya to ahista ahista jadu ka asar khatam hogya.
 3. En 2 aakhri surah ko *Mauzatain* (معوذتین) bhi kehty hain.
-4. [Surah Falaq](113_Surah_Falaq.md) mein insan bahar ki baddi se Allah ki panah maangta hai.
+4. [Surah Falaq](./113_Surah_Falaq.md) mein insan bahar ki baddi se Allah ki panah maangta hai.
 5. Surah Nas mein insan us burai ya baddi ke shar se Allah ki panah maangta jo insan ke ander se aati.
 
 ## Panah maangna us zaat ki

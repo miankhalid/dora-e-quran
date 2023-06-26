@@ -4,7 +4,7 @@ Classification: Makki
 Rukus: 1
 Ayahs: 42
 Subject: Resurrection
-Related Surah: Surah Nazi'at
+Related Surah: [79. Surah Nazi'at](./79_Surah_Nazi'at.md)
 
 ## Background
 

@@ -1,10 +1,10 @@
 # Number 112: Surah Ikhlas
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 4  
-Subject: Touheed (Allah ki sifaat)  
-Related Surahs: [109. Surah Kafirun](109_Surah_Kafirun.md), [113. Surah Falaq](113_Surah_Falaq.md) and [114. Surah Nas](114_Surah_Nas.md)
+Classification: Makki
+Rukus: 1
+Ayahs: 4
+Subject: Touheed (Allah ki sifaat)
+Related Surahs: [109. Surah Kafirun](./109_Surah_Kafirun.md), [113. Surah Falaq](./113_Surah_Falaq.md) and [114. Surah Nas](./114_Surah_Nas.md)
 
 ## Info
 

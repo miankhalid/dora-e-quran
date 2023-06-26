@@ -1,10 +1,10 @@
 # Number 104: Surah Humaza
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 9  
-Subject: Hutama ki warning  
-Related Surah: [103. Surah Asar](103_Surah_Asar.md)
+Classification: Makki
+Rukus: 1
+Ayahs: 9
+Subject: Hutama ki warning
+Related Surah: [103. Surah Asar](./103_Surah_Asar.md)
 
 ## Info
 
