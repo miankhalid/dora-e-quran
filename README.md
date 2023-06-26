@@ -17,6 +17,8 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [80. Surah Abasa](notes/roman-urdu/80_Surah_Abasa.md)
 - [87. Surah Aala](notes/roman-urdu/87_Surah_Aala.md)
 - [88. Surah Ghashia](notes/roman-urdu/88_Surah_Ghashia.md)
+- [93. Surah Dhuha](notes/roman-urdu/93_Surah_Dhuha.md)
+- [94. Surah Sharah](notes/roman-urdu/94_Surah_Sharah.md)
 - [95. Surah Teen](notes/roman-urdu/95_Surah_Teen.md)
 - [96. Surah Alaq](notes/roman-urdu/96_Surah_Alaq.md)
 - [97. Surah Qadar](notes/roman-urdu/97_Surah_Qadar.md)
@@ -37,6 +39,7 @@ This repo contains the notes devised by me after listening to Dr. Israr Sahab's 
 - [112. Surah Ikhlas](notes/roman-urdu/112_Surah_Ikhlas.md)
 - [113. Surah Falaq](notes/roman-urdu/113_Surah_Falaq.md)
 - [114. Surah Nas](notes/roman-urdu/114_Surah_Nas.md)
+
 
 ## Language Used
 
