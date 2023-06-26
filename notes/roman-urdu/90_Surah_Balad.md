@@ -4,7 +4,7 @@ Classification: Makki
 Rukus: 1
 Ayahs: 20
 Subject: Insan, Qayyamat aor Aakhrat
-Related Surah: [Surah Fajar](./89_Surah_Fajar.md)
+Related Surah: [89. Surah Fajar](./89_Surah_Fajar.md)
 
 ## Background
 

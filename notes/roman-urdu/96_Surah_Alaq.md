@@ -3,7 +3,7 @@
 Classification: Makki
 Rukus: 1
 Ayahs: 19
-Related Surah: [95. Surah Teen](95_Surah_Teen.md), [97. Surah Qadar](97_Surah_Qadar.md) and [98. Surah Bayyanah](98_Surah_Bayyanah.md)
+Related Surah: [95. Surah Teen](./95_Surah_Teen.md), [97. Surah Qadar](./97_Surah_Qadar.md) and [98. Surah Bayyanah](./98_Surah_Bayyanah.md)
 
 ## Background
 

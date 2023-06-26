@@ -1,10 +1,10 @@
 # Number 100: Surah Aadiyaat
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 11  
+Classification: Makki
+Rukus: 1
+Ayahs: 11
 Subject: Qayamat aor Shukarguzari
-Related Surahs: [99. Surah Zilzaal](99_Surah_Zilzaal.md), [101. Surah Qari'ah](101_Surah_Qari'ah.md) and [102. Surah Takathur](102_Surah_Takathur.md)
+Related Surahs: [99. Surah Zilzaal](./99_Surah_Zilzaal.md), [101. Surah Qari'ah](./101_Surah_Qari'ah.md) and [102. Surah Takathur](./102_Surah_Takathur.md)
 
 ## Ghoron ki qasam
 

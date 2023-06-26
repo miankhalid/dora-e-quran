@@ -1,10 +1,10 @@
 # Number 109: Surah Kafirun
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 6  
-Subject: Touheed  
-Related Surahs: [112. Surah Ikhlas](112_Surah_Ikhlas.md), [113. Surah Falaq](113_Surah_Falaq.md) and [114. Surah Nas](114_Surah_Nas.md)
+Classification: Makki
+Rukus: 1
+Ayahs: 6
+Subject: Touheed
+Related Surahs: [112. Surah Ikhlas](./112_Surah_Ikhlas.md), [113. Surah Falaq](./113_Surah_Falaq.md) and [114. Surah Nas](./114_Surah_Nas.md)
 
 ## Info
 

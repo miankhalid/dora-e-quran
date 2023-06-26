@@ -1,16 +1,16 @@
 # Number 108: Surah Kausar
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 3  
-Subject: Huzur ﷺ ko tassali  
-Related Surahs: [105. Surah Fil](105_Surah_Fil.md), [106. Surah Quraysh](106_Surah_Quraysh.md) and [107. Surah Maoon](107_Surah_Maoon.md)
+Classification: Makki
+Rukus: 1
+Ayahs: 3
+Subject: Huzur ﷺ ko tassali
+Related Surahs: [105. Surah Fil](./105_Surah_Fil.md), [106. Surah Quraysh](./106_Surah_Quraysh.md) and [107. Surah Maoon](./107_Surah_Maoon.md)
 
 ## Info
 
-1. [105. Surah Fil](105_Surah_Fil.md) ne taarikhi pasmanzar rakha.
-2. [106. Surah Quraysh](106_Surah_Quraysh.md) ne muaashi pasmazar rakha.
-3. [107. Surah Maoon](107_Surah_Maoon.md) ne ikhlaqi pasmazar rakha.
+1. [105. Surah Fil](./105_Surah_Fil.md) ne taarikhi pasmanzar rakha.
+2. [106. Surah Quraysh](./106_Surah_Quraysh.md) ne muaashi pasmazar rakha.
+3. [107. Surah Maoon](./107_Surah_Maoon.md) ne ikhlaqi pasmazar rakha.
 4. Surah Kausar mein Huzur ﷺ ka zahoor ho raha hai.
 
 ## Aap ﷺ ko khair-e-qaseer ataa farmaya gaya

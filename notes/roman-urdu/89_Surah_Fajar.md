@@ -4,7 +4,7 @@ Classification: Makki
 Rukus: 1
 Ayahs: 30
 Subject: Insan, Qayyamat aor Aakhrat
-Related Surah: [Surah Balad](./90_Surah_Balad.md)
+Related Surah: [90. Surah Balad](./90_Surah_Balad.md)
 
 ## Background
 

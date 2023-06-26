@@ -3,7 +3,7 @@
 Classification: Makki
 Rukus: 1
 Ayahs: 8
-Related Surah: [96. Surah Alaq](96_Surah_Alaq.md), [97. Surah Qadar](97_Surah_Qadar.md) and [98. Surah Bayyanah](98_Surah_Bayyanah.md)
+Related Surah: [96. Surah Alaq](./96_Surah_Alaq.md), [97. Surah Qadar](./97_Surah_Qadar.md) and [98. Surah Bayyanah](./98_Surah_Bayyanah.md)
 
 ## 3 Qasmain
 

@@ -1,10 +1,10 @@
-# Number 105: Surah Quraysh
+# Number 106: Surah Quraysh
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 4  
-Subject: Quraysh ke haalaat (muaashi)  
-Related Surah: [105. Surah Fil](105_Surah_Fil.md), [107. Surah Maoon](107_Surah_Maoon.md) and [108. Surah Kausar](108_Surah_Kausar.md)
+Classification: Makki
+Rukus: 1
+Ayahs: 4
+Subject: Quraysh ke haalaat (muaashi)
+Related Surah: [105. Surah Fil](./105_Surah_Fil.md), [107. Surah Maoon](./107_Surah_Maoon.md) and [108. Surah Kausar](./108_Surah_Kausar.md)
 
 ## Info
 

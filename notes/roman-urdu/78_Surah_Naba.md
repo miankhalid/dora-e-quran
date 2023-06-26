@@ -4,9 +4,11 @@ Classification: Makki
 Rukus: 2
 Ayahs: 40
 Subject: Qayyamat
-Related Surah: Surah Mursalat
+Related Surah: [77. Surah Mursalat](./77_Surah_Mursalat.md)
 
-**Background**: ‌Surah Mursalat k baad discussion shru krdi thi qufaar ne k yeh kiya hisab qitab hoga etc.
+## Background
+
+Surah Mursalat ke baad discussion shru krdi thi qufaar ne k yeh kiya hisab qitab hoga etc.
 
 ## Qayyamat ki khabar
 

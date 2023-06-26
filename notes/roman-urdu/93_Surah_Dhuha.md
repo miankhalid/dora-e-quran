@@ -4,7 +4,7 @@ Classification: Makki
 Rukus: 1
 Ayahs: 11
 Subject: Consolation & instructions for the Prophet ﷺ
-Related Surah: [94. Surah Sharah](94_Surah_Sharah.md)
+Related Surah: [94. Surah Sharah](./94_Surah_Sharah.md)
 
 ## Background
 

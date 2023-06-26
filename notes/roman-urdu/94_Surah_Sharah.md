@@ -4,7 +4,7 @@ Classification: Makki
 Rukus: 1
 Ayahs: 8
 Subject: Consolation & encouragement for the Prophet ﷺ
-Related Surah: [93. Surah Dhuha](93_Surah_Dhuha.md)
+Related Surah: [93. Surah Dhuha](./93_Surah_Dhuha.md)
 
 ## Background
 

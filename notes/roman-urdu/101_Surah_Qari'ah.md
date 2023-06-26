@@ -1,10 +1,10 @@
 # Number 101: Surah Qari'ah
 
-Classification: Makki  
-Rukus: 1  
-Ayahs: 11  
+Classification: Makki
+Rukus: 1
+Ayahs: 11
 Subject: Qayamat aor Aakhrat
-Related Surahs: [99. Surah Zilzaal](99_Surah_Zilzaal.md), [100. Surah Aadiyaat](100_Surah_Aadiyaat) and [102. Surah Takathur](102_Surah_Takathur.md)
+Related Surahs: [99. Surah Zilzaal](./99_Surah_Zilzaal.md), [100. Surah Aadiyaat](./100_Surah_Aadiyaat) and [102. Surah Takathur](./102_Surah_Takathur.md)
 
 ## Qari'ah
 
