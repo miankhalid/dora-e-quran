@@ -1,20 +1,24 @@
 # Number 78: Surah Naba
 
-Classification: Makki
-Rukus: 2
-Ayahs: 40
-Subject: Qayyamat
-Related Surah: [77. Surah Mursalat](./77_Surah_Mursalat.md)
+## Surah Information
+
+- Classification: Makki  
+- Rukus: 2  
+- Ayahs: 40  
+- Subject: Qayyamat  
+- Related Surah: [77. Surah Mursalat](./77_Surah_Mursalat.md)  
 
 ## Background
 
 Surah Mursalat ke baad discussion shru krdi thi qufaar ne k yeh kiya hisab qitab hoga etc.
 
-## Qayyamat ki khabar
+## Surah Notes
+
+### Qayyamat ki khabar
 
 1. ‌Yeh log jaan lengy us bari khabar (qayyamat) k bare m anqareeb
 
-## ‌Allah ki nematein
+### ‌Allah ki nematein
 
 1. ‌Zameen ek bichona.
 2. pahaar mekhen aor joro k shaklein.
@@ -26,7 +30,7 @@ Surah Mursalat ke baad discussion shru krdi thi qufaar ne k yeh kiya hisab qitab
 8. Jis k zareeye se sabza aor anaaj nikalta aor baghaat.
 *‌Conclusion*: In sab nemato ke baad kuch zemedari hum makhlooq par bhi hai.
 
-## Qayyamat k din k halaat
+### Qayyamat k din k halaat
 
 1. Feslay ka din muqarar hai.
 2. Us din soor phoonka jaye ga.
@@ -34,7 +38,7 @@ Surah Mursalat ke baad discussion shru krdi thi qufaar ne k yeh kiya hisab qitab
 4. Aasman khol dya jaye ga, us me darwazy ban jayengy.
 5. Pahar rait ki misl bana dye jayengy.
 
-## ‌Jahannam muntazr h
+### ‌Jahannam muntazr h
 
 1. Apne eendhan k liye.
 2. Jo k sarkashi walo ka h tikhana.
@@ -42,15 +46,15 @@ Surah Mursalat ke baad discussion shru krdi thi qufaar ne k yeh kiya hisab qitab
 4. Inko tawawqo e ni thi hisab qitab ki.
 5. azaab m kami ni ayegi.
 
-## ‌Mutaqiyo k liye
+### ‌Mutaqiyo k liye
 
 1. Qayamabi hogi us din
 2. baagh. anghoor. beewyaan. jaam.
 3. Rab k inaam unke amal k wajha se.
+  
+### ‌Rab h wo asman zameen aor uske darmyan jo kuch h  
 
-## ‌Rab h wo asman zameen aor uske darmyan jo kuch h
-
-## Qayyamat ke din
+### Qayyamat ke din
 
 1. Koi kuch ni bole ga sawae jisko ijazat ho.
 2. ‌Yeh din atal hai.
