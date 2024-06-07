@@ -38,7 +38,7 @@
 - 152 ayahs
 - pichle logo ke hawale se bayyan (Yahood, Bani Israil)
 
-### 1-4 Ruku [1-37]
+### 1-4 Ruku [1-39]
 
 - Quran ki hiqmat aor phalsafa ka khulasa jo Makki Quran me nazzul ho chukata (2/3 Quran nazul ho chuka tha 12-13 saal mein)
 
@@ -122,7 +122,7 @@
     - Hamari pehle takhleeq hui aalam-e-arwa me rooh ki shaqal mein, phr hum murda kar diye gaye.
   - Insaan Allah ko Khaaliq, Maalik samjhne ke bajaye khud haakim, aor maalik ban jaye, takabur kare.
   
-#### Ruku 4 [30-37]
+#### Ruku 4 [30-39]
 
 - Es ruku me insan ko khilafat (representative of Allah) sonpne ka zikar hai.
   - 3 saahib-e-sha'oor takhleeq hai Allah paak ki (jin me "main" ki shanakht hai.)
@@ -165,26 +165,40 @@
     - Allah ne Aadam ko wo alfaz sikha diye kiyu k asal cheez nadamat ka paida hona tha.
     - Lekin yehi cheez shaitan aor Aadam me farq tha. Aadam ne touba karli. Lekin Iblees ne nai.
 
-### Ruku 5-14 (10 ruku)
+### Ruku 5-14 (10 ruku) [40-121]
 
 Yeh 10 ruku Bani Israil ke sath qalam hai.
 
-#### Ruku 5
+#### Ruku 5 [40-46]
 
-- Es ruku Bani Israil ko dawat di ja rahi.
+- Subject: Es ruku Bani Israil ko dawat di ja rahi.
+- Israil lafzi mana:
+  - Isr -> Aseer -> Qaidi
+  - Eel -> Allah ka naam
+  - Yani Allah ka banda -> Abdullah
+- Yeh Hazrat Yaqoob (AS) ka laqab hai jinke 12 bete aor Bani Israil unki olad ko kehty hain.
+- Bani Israil par 4 door aa chuky thy Quran ke nazool se pehle
+  - 2 baar urooj, 2 baar azaab / zawal
+  - Jis waqt Quran naazil ho raha tha us waqt bani Israil zawal par thy.
+- Bani Israil par Allah ka inaam aor Bani Israil ka wada
+- Nabi SAW ke aany ki khabar aor Bani Israil ko qabool karna tha (Surah Airaf me zikr)
+- Torait: Mein tumhre bhaiyo me se tere maanad ek Nabi barpa karu ga aor usky mooh me Apna kalam dalu ga aor wo wohi kuch bataye ga jo Mein usay kahu ga.
+- Imaan lau jo Allah ne naazil kiya hai: Torait -> Quran
+  - Bani Israil ko kafir ni hona chahye Q k inko to pata tha aor intezar kar rhe thy.
+- Aayat-e-Ilahi ko mamooli qeemat par na becho
+- Taqwa akhtiyar ko
+- Haq ko haq zahir karo. Jaanty bhoojhty haq ko rad na karo.
+- Namaz, zakat ada karo. Ruku bhi add karo jamat ke sath.
+- Dusro ko achai ki talqain karte ho aor khud apne aap ko bhool jaty ho.
+- Allah ki madad Namaz aor sabar se haasil karo. Yeh bohat mushkil cheez hai.
 
-Need of Allah's revelations for guidance.
-Allah's covenants with the Children of Israel.
-Do you advise others and forget yourselves?
-Allah's help comes with patience and Salah.
+#### Ruku 6-14 [47-121]
 
-#### Ruku 6-14
-
-### Ruku 15-18 (4 ruku)
+### Ruku 15-18 (4 ruku) [122:152]
 
 </details>
 <details>
-<summary> Ummat e Muhammad se khitab [152-282 Aayah] [18-40 Ruku] </summary>
+<summary> Ummat e Muhammad se khitab [153-282 Aayah] [18-40 Ruku] </summary>
 
 - 134 Ayahas
 - 22 Rukus
@@ -195,10 +209,7 @@ Allah's help comes with patience and Salah.
   - Jihad bil maal
   - Jihaad bil Nafs
 
-### Ruku 19
-
 </details>
 ## Reference
 
 - https://quran.com/surah/2/info
-- https://archive.org/details/listofrukusfromtranslationoftheholyqurantranslationbymuhammadfarooqeazammalik/mode/2up
