@@ -78,3 +78,5 @@ So, please don't hesitate to mention any mistake that you may find in the notes 
    1. [Bayan-ul-Quran](https://www.youtube.com/playlist?list=PL401F34AC84CC5851) youtube playlist.
 3. [Tanzeem e Islami Books](http://204.12.241.218/videos/tanzeem/videos/BOOKS/)
 4. [quran.com](https://quran.com/) for more surah info.
+5. [Revelation order of Surahs](https://tanzil.net/docs/revelation_order) as per some scholars. The chronology is a subject of scholarly opinion and some Surahs were revealed in parts at different times.
+6. [Ruku Subjects](https://github.com/mushtaqak/learnings/blob/master/islamic/ruku-subjects.pdf) - Download from here
